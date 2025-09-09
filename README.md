@@ -1,6 +1,6 @@
 # Welcome to Paws at Sunrise
 
-This a work in progress
+# This a work in progress
 
 
 [***Privacy Policy***](./Privacy) 
