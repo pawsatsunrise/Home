@@ -12,6 +12,7 @@ This app is for informational and entertainment purposes only and should **not**
 
 Some content includes general tips on pet care topics such as grooming, behaviour, nutrition and so on. 
 However, every animal is unique, and you should always consult a qualified veterinarian for advice regarding the welfare of any animal in your care.
+
 The app is provided on an “as is” basis without warranties of any kind, express or implied. To the fullest extent permitted by law, Sunrise Design Limited accepts **no** liability for any loss, injury, or outcome arising from reliance on information in the app.
 
 ### 3. PARENTAL GUIDANCE
