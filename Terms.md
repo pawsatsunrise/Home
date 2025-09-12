@@ -34,7 +34,7 @@ This app is not affiliated with and does not endorse any specific brands, busine
 
 ### 6. INTELLECTUAL PROPERTY
 
-All content within this app, including but not limited to quiz questions, answers, and design elements, is the property of Sunrise Design Limited and is protected by applicable intellectual property laws.
+All content within this app, including but not limited to questions, answers, and design elements, is the property of Sunrise Design Limited and is protected by applicable intellectual property laws.
 
 ### 7. JURISDICTION / GOVERNING LAW 
 
