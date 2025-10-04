@@ -40,7 +40,7 @@ Google Privacy Policy: [https://policies.google.com/privacy](https://policies.go
 
 Firebase Privacy & Security Documentation: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
-Data Retention: The pseudonymized data collected by Firebase Analytics is retained for a period of 14 months before being automatically deleted. Crashlytics data is retained for 90 days.
+Data Retention: The pseudonymized data collected by Firebase Analytics is retained for a period of 60 days before being automatically deleted. Crashlytics data is retained for 90 days before being automatically deleted.
 
 **Opt-Out:** You can opt-out of all data collection for Firebase Analytics and Firebase Crashlytics at any time. To do this, please open the app, navigate to the "About the app" section, and use the button to disable analytics & crash reporting.
 
