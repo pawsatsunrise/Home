@@ -38,7 +38,7 @@ Data Access and Sharing: This pseudonymized data is processed by Google on our b
 
 Google Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy) 
 
-Firebase Privacy & Security Documentation [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
+Firebase Privacy & Security Documentation: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
 Data Retention: The pseudonymized data collected by Firebase Analytics is retained for a period of 14 months before being automatically deleted. Crashlytics data is retained for 90 days.
 
