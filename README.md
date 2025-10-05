@@ -1,7 +1,10 @@
 # Welcome to Paws at Sunrise
 
-# This a work in progress
+_Paws at Sunrise_ is a fun app
 
+This app is free to download and has no adverts.
+
+[![gplayimage1](./gplayimage.png)](https://play.google.com/store/apps/)
 
 [***Privacy Policy***](./Privacy) 
 
