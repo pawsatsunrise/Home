@@ -26,6 +26,12 @@ Nature of the Data: The data collected is non-personal, technical data that is a
 
 Purpose and Limitations: We use this data exclusively to analyze trends, diagnose crashes, and improve the overall quality of the App. We do not use this data to identify or track individual users. The technical and procedural safeguards implemented by us and Google are designed to make the identification of specific individuals from this dataset highly improbable.
 
+**Opt-Out:** You can opt-out of all data collection for Firebase Analytics and Firebase Crashlytics at any time. To do this, please open the app, navigate to the "About the app" section, and use the button to disable analytics & crash reporting.
+
+Opting out of this data collection will not affect the core functionality of the app. Note: This opt-out will only apply to data collection from the point it is disabled.
+
+Data Retention: The pseudonymized data collected by Firebase Analytics is retained for a period of 60 days before being automatically deleted. Crashlytics data is retained for 90 days before being **automatically deleted**.
+
 Data Collected Includes:
 
 1. Crashlytics: Technical information about app crash events (e.g., stack traces, device model, OS version, device state at the time of crash).
@@ -39,12 +45,6 @@ Data Access and Sharing: This pseudonymized data is processed by Google on our b
 Google Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy) 
 
 Firebase Privacy & Security Documentation: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
-
-Data Retention: The pseudonymized data collected by Firebase Analytics is retained for a period of 60 days before being automatically deleted. Crashlytics data is retained for 90 days before being automatically deleted.
-
-**Opt-Out:** You can opt-out of all data collection for Firebase Analytics and Firebase Crashlytics at any time. To do this, please open the app, navigate to the "About the app" section, and use the button to disable analytics & crash reporting.
-
-Opting out of this data collection will not affect the core functionality of the app. Note: This opt-out will only apply to data collection from the point it is disabled.
 
 ### 6. CHANGES TO THIS PRIVACY POLICY
 
