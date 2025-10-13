@@ -22,7 +22,7 @@ This App does **not** offer in-app purchases or show advertisements. We therefor
 
 We (Sunrise Design Limited) use Firebase Crashlytics and Firebase Analytics, services provided by Google, to help us understand app performance, stability and reliability.
 
-**Opt-Out:** You can opt-out of all data collection for Firebase Analytics and Firebase Crashlytics at any time. To do this, please open the app, navigate to the "About the app" section, and use the button to disable analytics & crash reporting.
+**Opt-Out:** You can opt-out of all data collection for Firebase Analytics and Firebase Crashlytics at any time. To do this, open the app, go to the "About the app" section, and use the button to disable analytics & crash reporting.
 
 Opting out of this data collection will not affect the core functionality of the app. Note: This opt-out will only apply to data collection from the point it is disabled.
 
