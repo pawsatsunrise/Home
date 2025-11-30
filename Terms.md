@@ -21,12 +21,11 @@ This app is not intended for children under 16. Activities such as pet care shou
 
 ### 4. CHARITIES
 
-This app includes links to third-party charity websites that may ask for donations.
+This app includes brief descriptions of certain charity organisations, provided for general information only.
 
-We do not endorse any specific charity and are not responsible for how any donations are used.
-Donations are made entirely at your own discretion, and we encourage independent research before contributing.
-Except for small amounts of voluntary work, we have no formal affiliation with any charity.
-We are not responsible for the content, accuracy, or practices of third-party websites linked within the app.
+We do not endorse any specific charity, do not collect or process donations, and have no involvement in how any charity uses its funds. Any decision to support a charity mentioned in the app is entirely your own discretion and responsibility.
+
+Except for small amounts of voluntary work, we have no formal affiliation with any charity mentioned.
 
 ### 5. AFFILIATIONS
 
