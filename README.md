@@ -1,10 +1,10 @@
 # Welcome to Paws at Sunrise
 
-_Paws at Sunrise_ is a fun app
+Play the _Frisky Dog Quiz_
 
-This app is free to download and has no adverts.
+Take a tour through the world of dogs. Summon the fluff brigade and begin your quest!
 
-[![gplayimage1](./gplayimage.png)](https://play.google.com/store/apps/)
+[![gplayimage1](./gplayimage.png)](https://play.google.com/store/apps/details?id=com.sunrise.dogquiz)
 
 [***Privacy Policy***](./Privacy) 
 
