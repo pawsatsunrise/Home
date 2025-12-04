@@ -1,11 +1,12 @@
 # Welcome to Paws at Sunrise
 
 
-**_Frisky Dog Quiz_**
 
 [![gplayimage1](./gplayimage.png)](https://play.google.com/store/apps/details?id=com.sunrise.dogquiz)
 
-Take a tour through the world of dogs. Summon the fluff brigade and begin your quest!
+Take a tour through the world of dogs with the _Frisky Dog Quiz_. Summon the fluff brigade and begin your quest!
+
+[![gplayimage1](./publish000_main.png)](https://play.google.com/store/apps/details?id=com.sunrise.dogquiz)
 
 [***Privacy Policy***](./Privacy) 
 
